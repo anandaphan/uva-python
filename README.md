@@ -30,7 +30,7 @@ I did finish most of concept and some UVA question in C++ in uni before.
 
 
 But now, Since I mainly use Python as my main language. 
-I am going to do it again using python.
+I am going to do it again using Python.
 At first I just want to revisit, but I'll also upload it here so we can learn together
 
 
