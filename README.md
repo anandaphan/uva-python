@@ -21,4 +21,17 @@ Then, you can also visit my website to find the explanation about the code.
 Enjoy the process.
 
 
-(not really up to date but I will try to finish the post as soon as the possible)
+(not really up to date explanation on website but I will try to finish the post as soon as the possible)
+
+
+### Intention
+Usually people solve competitive programming (UVA) problem in C/C++ or Java language.
+I did finish most of concept and some UVA question in C++ in uni before.
+
+
+But now, Since I mainly use Python as my main language. 
+I am going to do it again using python.
+At first I just want to revisit, but I'll also upload it here so we can learn together
+
+
+Enjoy.
