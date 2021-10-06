@@ -11,7 +11,8 @@
 
 ### Basic Information
 Hello,
-This is the solution of UVA in python 3 language
+This is the solution of UVA in python 3 language.
+
 If you are learning about competitive programming,
 feel free to learn from this github.
 But remember, **do not copy and paste** the solution. Because it will not enhance your knowledge at all!.
